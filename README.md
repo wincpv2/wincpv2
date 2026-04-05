@@ -1,3 +1,4 @@
+```python
 class Win:
     def __init__(self):
         self.name        = "Win"
@@ -20,3 +21,4 @@ class Win:
 
 me = Win()
 me.say_hi()
+```
