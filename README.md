@@ -15,7 +15,6 @@
 ```
 
 
-![header](./header.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=58A6FF&width=700&lines=It's+alright+if+you+don't+have+all+the+answers+right+now.;Sometimes,+just+making+it+through+the+day+is+enough.;You+don't+have+to+be+perfect,+you+just+have+to+keep+going.;And+when+you're+ready,+I'll+be+here+to+listen.)](https://git.io/typing-svg)
 
