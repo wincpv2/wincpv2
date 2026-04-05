@@ -1,9 +1,22 @@
+```
+██╗    ██╗ ██████╗ ██████╗ ██████╗  █████╗ ██████╗  █████╗  ██████╗██╗  ██╗
+██║    ██║██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
+██║ █╗ ██║██║   ██║██████╔╝██████╔╝███████║██████╔╝███████║██║     ███████║
+██║███╗██║██║   ██║██╔══██╗██╔══██╗██╔══██║██╔═══╝ ██╔══██║██║     ██╔══██║
+╚███╔███╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║██║     ██║  ██║╚██████╗██║  ██║
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+
+███████╗██████╗ ██╗██████╗
+██╔════╝██╔══██╗██║██╔══██╗
+███████╗██████╔╝██║██████╔╝
+╚════██║██╔══██╗██║██╔══██╗
+███████║██║  ██║██║██║  ██║██╗
+╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝
+```
 
 
-Hi there, I'm
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=WORRAPACH+SRIR.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines="It's+alright+if+you+don't+have+all+the+answers+right+now.+Sometimes,+just+making+it+through+the+day+is+enough.+You+don't+have+to+be+perfect,+you+just+have+to+keep+going.+And+when+you're+ready,+I'll+be+here+to+listen.")](https://git.io/typing-svg)
 
-wincpv2 · Bangkok, TH
 
 ![BME](https://img.shields.io/badge/Biomedical_Eng-1f6feb?style=flat&labelColor=1f6feb&color=cae8ff)
 ![AI](https://img.shields.io/badge/AI_%2F_ML-196c2e?style=flat&color=196c2e&labelColor=196c2e)
