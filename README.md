@@ -49,7 +49,7 @@ class Win:
 me = CHAITEA()
 me.say_Les Drink Some Hypertension Things ﮩـﮩﮩ٨ـ🫀ﮩ٨ـﮩﮩ٨ـ ()
 
-`---`
+
 ```
 
 ---
