@@ -61,7 +61,7 @@ Programming:
 AI / ML:
   Libraries:   [NumPy, pandas, matplotlib, OpenCV]
   Tasks:       [Image Classification, NLP, Fine-tuning]
-  Platforms:   [Kaggle]
+  Platforms:   [Anaconda, Google colab, Kaggle]
 
 Biomedical Engineering:
   Instrumentation:  [Defibrillator, Ventilator, Infusion Pump,
