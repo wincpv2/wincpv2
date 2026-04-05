@@ -49,3 +49,24 @@ class Win:
 me = CHAITEA()
 me.say_Les Drink Some Hypertension Things ﮩـﮩﮩ٨ـ🫀ﮩ٨ـﮩﮩ٨ـ ()
 ```
+
+`---`
+
+⚙️ Tech Stack
+```
+Programming:
+  Languages:   [Python, C, C++, HTML]
+  Web / API:   [Basic web development]
+
+AI / ML:
+  Libraries:   [NumPy, pandas, matplotlib, OpenCV]
+  Tasks:       [Image Classification, NLP, Fine-tuning]
+  Platforms:   [Kaggle]
+
+Biomedical Engineering:
+  Instrumentation:  [Defibrillator, Ventilator, Infusion Pump,
+                     ECG, Infant Incubator, Medical Gas, Anesthesia Machine]
+  Microbiology:     [Bacterial Techniques, Blood Analysis]
+  Science Lab:      [Protein & Sugar Quantification, Basic Chemistry Lab]
+  Physics:          [University-level Physics]
+```
