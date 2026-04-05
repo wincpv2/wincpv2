@@ -72,3 +72,11 @@ Biomedical Engineering:
   Science Lab:      [Protein & Sugar Quantification, Basic Chemistry Lab]
   Physics:          [University-level Physics]
 ```
+---
+
+## 📡 Connect with Me
+📞 0916962909  |  📍 Bangkok, Thailand
+
+---
+
+⚡ Built with passion for Biomedical & AI • KMUTNB 🌺
