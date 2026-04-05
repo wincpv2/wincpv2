@@ -19,8 +19,8 @@
 ```python
 class Win:
     def __init__(self):
-        self.name        = "Win"
-        self.university  = "King Mongkut's University of Technology North Bangkok 🌾"
+        self.name        = "Win or just call me CHAITEA:D"
+        self.university  = "King Mongkut's University of Technology North Bangkok 🌺"
         self.major       = "Biomedical Engineering"
         self.also_knows  = "a little bit of everything 🧩"
 
@@ -37,6 +37,6 @@ class Win:
     def say_hi(self):
         print("If you're curious about bio × tech, you're in the right place 🙌")
 
-me = Win()
-me.say_hi()
+me = CHAITEA()
+me.say_Les Drink Some Hypertension Things ﮩـﮩﮩ٨ـ🫀ﮩ٨ـﮩﮩ٨ـ ()
 ```
