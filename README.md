@@ -1,16 +1,22 @@
-## Hi there 👋
+class Win:
+    def __init__(self):
+        self.name        = "Win"
+        self.university  = "King Mongkut's University of Technology North Bangkok 🌾"
+        self.major       = "Biomedical Engineering"
+        self.also_knows  = "a little bit of everything 🧩"
 
-<!--
-**wincpv2/wincpv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.interests   = [
+            "🫀  Medical Devices & Clinical Technology",
+            "🤖  AI / Machine Learning",
+            "🔬  Where biology meets code",
+        ]
 
-Here are some ideas to get you started:
+        self.currently   = "Exploring the space between medicine and AI"
+        self.hidden_side = "Most of my real work happens in the lab, not here"
+        self.fun_fact    = "I try so hard — and sometimes it works 💀"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("If you're curious about bio × tech, you're in the right place 🙌")
+
+me = Win()
+me.say_hi()
